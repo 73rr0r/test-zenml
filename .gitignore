@@ -1,7 +1,8 @@
-*.db
-*.py[cod]
-.web
 __pycache__/
 /.venv
 /.idea
 /data/
+/run.py
+/docker-compose.yaml
+/poetry.lock
+/pyproject.toml
