@@ -2,7 +2,6 @@ __pycache__/
 /.venv
 /.idea
 /data/
-/run.py
 /docker-compose.yaml
 /poetry.lock
 /pyproject.toml
