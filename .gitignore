@@ -2,6 +2,6 @@
 *.py[cod]
 .web
 __pycache__/
-data
-.venv
-.idea
+/.venv
+/.idea
+/data/
